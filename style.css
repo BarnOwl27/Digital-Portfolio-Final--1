@@ -6,6 +6,8 @@
   background: #4F646F ;
 }
 
+
+
 header {
   margin-top: 1rem;
 }
@@ -67,9 +69,6 @@ header a.active {
   background: rgb(235,235,235);
 }
 
-/* .dropdown-content a {
-  margin: 0.25rem 1rem 1rem 0.25rem;
-} */
 
 .dropdown:hover .dropdown-content {
   display: block;
